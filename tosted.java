@@ -10,6 +10,7 @@ public class tosted {
 
 		
  System.out.println("genkins");
+ System.out.println("genkins");
 	}
 
 }
