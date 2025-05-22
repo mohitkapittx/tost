@@ -7,6 +7,9 @@ public class tosted {
                  System.out.println("tostet");
 
  System.out.println("tosteyyyyyyyyyyt");
+
+		
+ System.out.println("genkins");
 	}
 
 }
